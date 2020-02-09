@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iegaeveej.akajut.com/sitemap.xml
